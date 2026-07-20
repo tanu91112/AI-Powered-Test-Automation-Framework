@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Uploaded Files
+uploads/
+
+# ChromaDB
+chroma_db/
+
+# Reports
+reports/
+
+# Logs
+*.log
