@@ -1,6 +1,5 @@
 # AI-Powered Test Automation Framework
-
-Master's thesis project for automated test case generation using RAG, LLMs, and Selenium.
+ automated test case generation using RAG, LLMs, and Selenium.
 
 ## Planned Features
 
