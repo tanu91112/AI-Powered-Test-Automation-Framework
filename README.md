@@ -1,5 +1,5 @@
 # AI-Powered Test Automation Framework (Autonomous QA Agent)
- automated test case generation using RAG, LLMs, and Selenium.
+ Automated test case generation using RAG, LLMs, and Selenium.
 
 
 ## Overview
