@@ -49,6 +49,10 @@ User Upload
 ### 3. Selenium Script Generation Output
 ![Selenium Output](IMAGES/3.png)
 
+### 4.Working Flow
+![Rag_Pipeline](IMAGES/Rag_Pipeline.png)
+
+
 ## Tech Stack
 - Python 3.10+
 - FastAPI
